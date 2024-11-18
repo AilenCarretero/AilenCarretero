@@ -13,6 +13,3 @@ Actualmente me encuentro cursando la **Tecnicatura de Programación** en la UTN 
 
 ## 📁 Proyectos que te podrían interesar:
 * ⏳ Esta área se encuentra en construcción...
-
-## 📫 Conecta conmigo
-* ⏳ Esta área se encuentra en construcción...
