@@ -9,7 +9,7 @@ Actualmente me encuentro cursando la **Tecnicatura de Programación** en la UTN 
 ## 🛠️ Habilidades técnicas
 * 💻 Lenguajes: **Python** (nivel intermedio/avanzado) y **Java** (nivel básico/intermedio).
 * 🌐 Uso de herramientas: **Git**, **GitHub**, **Docker**, **Jira** y **Excel**.
-* 🗣️ Idiomas: Español (nativo), Inglés (intermedio) y **Portugués** (básico).
+* 🗣️ Idiomas: **Español** (nativo), **Inglés** (intermedio) y **Portugués** (básico).
 
 ## 📁 Proyectos que te podrían interesar:
 * ⏳ Esta área se encuentra en construcción...
