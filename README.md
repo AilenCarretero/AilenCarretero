@@ -1,5 +1,5 @@
 # ¡Hola, soy Ailen! 👋🏻
-Actualmente me encuentro cursando la **Tecnicatura de Programación** en la UTN de Mendoza. Me apasiona el aprendizaje constante y la resolución de problemas. Tuve mi primer contacto con la programación en 2021, cuando realicé un curso de Python en YouTube, pero no fue hasta este año, 2024, que decidí ponerme firme con ello.
+Actualmente me encuentro cursando la **Tecnicatura de Programación** en la UTN de Mendoza. Me apasiona el aprendizaje constante y la resolución de problemas. Tuve mi primer contacto con la programación en 2021, cuando realicé un curso de Python en YouTube, pero no fue hasta el año, 2024, que decidí ponerme firme con ello, inscribirme a la tecnicatura mencionada y comenzar a ampliar mis conocimientos en esta área y a crear mis primeros proyectos.
 
 ## 🌺 Sobre mí
 * 🚀 Además de las nuevas tecnologías, también tengo interés en la astronomía.
