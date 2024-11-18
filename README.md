@@ -11,7 +11,7 @@ Actualmente me encuentro cursando la **Tecnicatura de Programación** en la UTN 
 * 🌐 Uso de herramientas: **Git**, **GitHub**, **Docker**, **Jira** y **Excel**.
 * 🗣️ Idiomas: Español (nativo), Inglés (intermedio) y **Portugués** (básico).
 
-## 📁 Proyectos
+## 📁 Proyectos que te podrían interesar:
 * ⏳ Esta área se encuentra en construcción...
 
 ## 📫 Conecta conmigo
